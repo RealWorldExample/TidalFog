@@ -1,0 +1,15 @@
+{
+	"Name" : "TidalFog",
+	"Description" : "Needs Work",
+	"Version": "1.0.0",
+	"LoadPriority": 3,
+	
+	"ConVars": 
+	[
+		{
+			"Name": "cheese",
+			"DefaultValue": "2.0"
+		}
+	]
+}
+
